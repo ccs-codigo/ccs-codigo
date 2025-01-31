@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm from Manaus/AM - Brasil<br><br>- 🔭 I'm working as Junior Developer<br>- 📚 I’m currently learning React, Node.js, and Docker, while deepening my knowledge in both backend and frontend development. I’m also exploring best practices in code optimization and improving my skills in version control with Git.<br>- ⚡ In my free time, I love diving into new programming challenges to keep my skills sharp, exploring data visualizations, and working on personal projects. I also enjoy staying active with outdoor activities, reading about the latest tech trends, and connecting with others in the tech community to exchange ideas.</p>
+<p align="left">I'm from Manaus/AM - Brasil<br><br>- 🔭 I'm working as Software Developer<br>- 📚 I’m currently learning React, Node.js, and Docker, while deepening my knowledge in both backend and frontend development. I’m also exploring best practices in code optimization and improving my skills in version control with Git.<br>- ⚡ In my free time, I love diving into new programming challenges to keep my skills sharp, exploring data visualizations, and working on personal projects. I also enjoy staying active with outdoor activities, reading about the latest tech trends, and connecting with others in the tech community to exchange ideas.</p>
 
 ###
 
